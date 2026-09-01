@@ -34,7 +34,7 @@ For questions and support please use the [official forum](https://forum.authing.
 
 Thank you to all the people who already contributed to Golang SDK !
 
-[Contributing to Authing Open Source Repos](https://github.com/Authing/.github/blob/main/CONTRIBUTING.md#English)
+[Contributing to Authing Open Source Repos](https://github.com/hy03041212-123/.github/blob/main/CONTRIBUTING.md#English)
 
 ## 🎁 License
 

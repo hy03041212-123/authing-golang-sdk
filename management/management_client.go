@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Authing/authing-golang-sdk/v3/dto"
-	"github.com/Authing/authing-golang-sdk/v3/util"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/dto"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/util"
 	"github.com/valyala/fasthttp"
 )
 

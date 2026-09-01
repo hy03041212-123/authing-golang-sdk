@@ -33,7 +33,7 @@
 
 感谢所有为 Golang SDK 做出贡献的人！
 
-[为 Authing 开源仓库做出贡献](https://github.com/Authing/.github/blob/main/CONTRIBUTING.md#简体中文)
+[为 Authing 开源仓库做出贡献](https://github.com/hy03041212-123/.github/blob/main/CONTRIBUTING.md#简体中文)
 
 ## 🎁 开源许可
 
