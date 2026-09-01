@@ -1,9 +1,9 @@
 package management
 
 import (
-	"crypto/tls"
 	"encoding/json"
 	"fmt"
+	"github.com/valyala/fasthttp/fasthttpproxy"
 	url2 "net/url"
 	"sync"
 	"time"
@@ -112,7 +112,7 @@ func (c *ManagementClient) SendHttpRequest(url string, method string, reqDto int
 	defer fasthttp.ReleaseResponse(resp)
 
 	client := &fasthttp.Client{
-		TLSConfig: &tls.Config{InsecureSkipVerify: true},
+		Dial: fasthttpproxy.FasthttpProxyHTTPDialer(),
 	}
 
 	err = client.DoTimeout(req, resp, c.options.ReadTimeout)
