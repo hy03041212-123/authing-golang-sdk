@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/hy03041212-123/authing-golang-sdk/v3/constant"
-	"github.com/hy03041212-123/authing-golang-sdk/v3/util"
+	"github.com/Authing/authing-golang-sdk/v3/constant"
+	"github.com/Authing/authing-golang-sdk/v3/util"
 	"github.com/valyala/fasthttp"
 )
 
