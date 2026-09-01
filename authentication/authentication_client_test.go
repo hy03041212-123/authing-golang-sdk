@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hy03041212-123/authing-golang-sdk/v3/constant"
-	"github.com/hy03041212-123/authing-golang-sdk/v3/dto"
+	"github.com/Authing/authing-golang-sdk/v3/constant"
+	"github.com/Authing/authing-golang-sdk/v3/dto"
 
 	// "fmt"
 	"strings"

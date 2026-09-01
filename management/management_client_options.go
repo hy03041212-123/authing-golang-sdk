@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/hy03041212-123/authing-golang-sdk/v3/constant"
-	"github.com/hy03041212-123/authing-golang-sdk/v3/util"
+	"github.com/Authing/authing-golang-sdk/v3/constant"
+	"github.com/Authing/authing-golang-sdk/v3/util"
 )
 
 type ManagementClient struct {
