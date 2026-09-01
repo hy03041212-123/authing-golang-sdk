@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Authing/authing-golang-sdk/v3/constant"
-	"github.com/Authing/authing-golang-sdk/v3/dto"
-	"github.com/Authing/authing-golang-sdk/v3/util"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/constant"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/dto"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/util"
 
 	keyfunc "github.com/MicahParks/compatibility-keyfunc"
 	"github.com/dgrijalva/jwt-go"

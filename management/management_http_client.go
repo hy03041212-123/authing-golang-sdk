@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Authing/authing-golang-sdk/v3/constant"
-	"github.com/Authing/authing-golang-sdk/v3/dto"
-	"github.com/Authing/authing-golang-sdk/v3/util/cache"
 	"github.com/dgrijalva/jwt-go"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/constant"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/dto"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/util/cache"
 	"github.com/valyala/fasthttp"
 )
 

@@ -2,7 +2,7 @@ package management
 
 import (
 	"fmt"
-	"github.com/Authing/authing-golang-sdk/v3/dto"
+	"github.com/hy03041212-123/authing-golang-sdk/v3/dto"
 	"testing"
 )
 
